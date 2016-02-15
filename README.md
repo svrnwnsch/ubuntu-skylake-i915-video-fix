@@ -24,3 +24,7 @@ Tested on:  <br />
 ## Kernel - 4.4.x issues
  * Loading /lib/firmware/i915/skl_guc* firemware poblem
  * Monitor blinks at kernel boot time
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/linuxenko/ubuntu-skylake-i915-video-fix/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
