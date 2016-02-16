@@ -25,9 +25,6 @@ Tested on:  <br />
  * Loading /lib/firmware/i915/skl_guc* firemware poblem
  * Monitor blinks at kernel boot time
 
-> ### Kernel - 4.3.5-040305-generic #201601311533 SMP Sun Jan 31 20:35:35 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
- > Looks like no more driver dmesg errors, freezes and artifacts.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/linuxenko/ubuntu-skylake-i915-video-fix/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+> ### Kernel - 4.3.5-040305-generic #201601311533 SMP Sun Jan 31 20:35:35 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux <br />
+ > Looks like no more driver dmesg errors, freezes and artifacts. <br />
+ > Download http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.3.5-wily/
