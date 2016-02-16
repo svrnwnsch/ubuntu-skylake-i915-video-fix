@@ -2,6 +2,8 @@
 
 Skylake (intel hd530) video <br />
 
+> 00:02.0 VGA compatible controller: Intel Corporation Sky Lake Integrated Graphics (rev 06)
+
 The problem :<br />
  * skype video calls become unusable.<br />
  * blue lines<br />
