@@ -16,6 +16,10 @@ Tested on:  <br />
      * ubuntu wily (15.10)  <br />
 
 ## installation
+> ### Kernel - 4.3.5-040305-generic #201601311533 SMP Sun Jan 31 20:35:35 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux <br />
+ > Looks like no more driver dmesg errors, freezes and artifacts. <br />
+ > Download http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.3.5-wily/ <br />
+ 
 * Copy 20-intel.conf from repository to /usr/share/X11/xorg.conf.d/20-intel.conf
 * Restart Xserver (logout/login)
 
@@ -27,6 +31,4 @@ Tested on:  <br />
  * Loading /lib/firmware/i915/skl_guc* firemware poblem
  * Monitor blinks at kernel boot time
 
-> ### Kernel - 4.3.5-040305-generic #201601311533 SMP Sun Jan 31 20:35:35 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux <br />
- > Looks like no more driver dmesg errors, freezes and artifacts. <br />
- > Download http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.3.5-wily/
+
