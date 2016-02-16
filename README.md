@@ -21,7 +21,7 @@ Tested on:  <br />
  > Download http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.3.5-wily/ <br />
  
 * Copy 20-intel.conf from repository to /usr/share/X11/xorg.conf.d/20-intel.conf
-* Restart Xserver (logout/login)
+* Restart / reboot the system
 
 
 ## Kernel - 4.3.x issues
