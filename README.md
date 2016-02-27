@@ -33,7 +33,7 @@ Restart system then. <br />
  * With 4.2 system can stuck even watching youtube videos.
  
 ### Kernel - 4.4.x issues
- * W: Possible missing firmware /lib/firmware/i915/skl_guc_ver4.bin for module i915 [issue](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/3). <br />
+> W: Possible missing firmware /lib/firmware/i915/skl_guc_ver4.bin for module i915 [issue](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/3). <br />
  
 FIX:<br />
  Download and install [firmware](https://01.org/linuxgraphics/downloads/sklgucver43).<br />
@@ -46,9 +46,9 @@ cd skl_guc_ver4_3/ ; sudo ./install.sh
 sudo update-initramfs -u -k all
 ```
 
-### Contribution
+## Contribution
 
  * Testing results and fixes contribution are highly appreciated.
- * Click star button ))
+ * Click star button above ))
 
 
