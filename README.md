@@ -36,7 +36,7 @@ Restart system then. <br />
  * W: Possible missing firmware /lib/firmware/i915/skl_guc_ver4.bin for module i915 [issue](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/3). <br />
  
 FIX:<br />
- Download and install [firmware](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/3).<br />
+ Download and install [firmware](https://01.org/linuxgraphics/downloads/sklgucver43).<br />
  
 ```
 cd /tmp 
