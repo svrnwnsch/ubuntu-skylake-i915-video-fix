@@ -33,6 +33,8 @@ Restart system then. <br />
  * With 4.2 system can stuck even watching youtube videos.
  
 ### Kernel - 4.4.x issues
+ * Firefox webgl rendering [crush](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/4) <br />
+
 > W: Possible missing firmware /lib/firmware/i915/skl_guc_ver4.bin for module i915 [issue](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/3). <br />
  
 FIX:<br />
