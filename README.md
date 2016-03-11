@@ -30,10 +30,13 @@ sudo cp 20-intel.conf /usr/share/X11/xorg.conf.d/20-intel.conf
 Restart system then. <br />
 
 ### Kernel 4.2.0-x  -  4.3.x issues
+
  * Very unstable driver when using opengl or playing [games](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/2).
  * With 4.2 system can stuck even watching youtube videos.
  
 ### Kernel - 4.4.x issues
+
+ * Looks like very unstable, sometimes freeze whole system without any reason. I don't use it anymore, 4.3.x is more stable.
  * Monitor flickering at boot time, before it start Xorg server it blinks. (4.4.x only problem)
  * Firefox webgl rendering [crush](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/4) <br />
 
