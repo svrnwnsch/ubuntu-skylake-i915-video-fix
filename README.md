@@ -56,6 +56,5 @@ sudo update-initramfs -u -k all
 ## Contribution
 
  * Testing results and fixes contribution are highly appreciated.
- * Click star button above ))
 
 
