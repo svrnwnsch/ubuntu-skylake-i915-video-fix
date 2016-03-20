@@ -14,7 +14,7 @@ if id | egrep -q '(uid=0\(root\))'; then
         echo 'Downloading config file.'
 else
         echo 'Root privilegies are required'
-        echo 'Try: sodo '$0 
+        echo 'Try: sudo '$0 
         exit 1
 fi
 
