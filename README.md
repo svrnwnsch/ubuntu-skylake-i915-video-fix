@@ -1,7 +1,7 @@
 [![](https://cdn.rawgit.com/linuxenko/linuxenko.github.io/master/media/skylake/video-fix.png)](https://cdn.rawgit.com/linuxenko/linuxenko.github.io/master/media/skylake/video-fix.png)
 
 
-Skylake (intel hd530) video fix for lunux<br />
+Skylake (Intel HD530/HD520) video fix for Linux<br />
 
 > 00:02.0 VGA compatible controller: Intel Corporation Sky Lake Integrated Graphics (rev 06)
 
