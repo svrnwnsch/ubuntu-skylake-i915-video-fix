@@ -17,6 +17,7 @@ Tested on:  <br />
      * ubuntu wily (15.10)  <br />
      * ubuntu xenial (16.04) ([4.3.5 kernel](https://github.com/linuxenko/ubuntu-skylake-i915-video-fix/issues/9))  <br />
      * ubuntu xenial (16.04) (4.6 kernel)
+     * kubuntu xenial (16.04) (4.4 kernel)
 
 ## installation <br />
 
